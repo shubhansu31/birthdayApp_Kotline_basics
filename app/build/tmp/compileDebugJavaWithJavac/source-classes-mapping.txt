@@ -1,0 +1,2 @@
+com/e/birthdayapp/BuildConfig.java
+ com.e.birthdayapp.BuildConfig
