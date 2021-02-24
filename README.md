@@ -9,3 +9,7 @@
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/shubhansu31/birthdayApp_Kotline_basics?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/shubhansu31/birthdayApp_Kotline_basics?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/shubhansu31/birthdayApp_Kotline_basics?style=flat-square) ![GitHub Repo stars](https://img.shields.io/github/stars/shubhansu31/birthdayApp_Kotline_basics?style=flat-square) ![GitHub watchers](https://img.shields.io/github/watchers/shubhansu31/birthdayApp_Kotline_basics?style=flat-square)
+
+![ss1](https://i.ibb.co/qxbffQw/phone1.png=10x10)
+![ss2](https://i.ibb.co/fQ0KTry/phone2.png1=10x10)
+
