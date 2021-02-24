@@ -1,5 +1,7 @@
 # birthday App using Kotlin
 
+![Travis (.org)](https://img.shields.io/travis/shubhansu31/birthdayApp_Kotline_basics?style=flat-square)
+
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b851582fcd04472891c285aeb4693bf7)](https://www.codacy.com/gh/shubhansu31/birthdayApp_Kotline_basics/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=shubhansu31/birthdayApp_Kotline_basics&amp;utm_campaign=Badge_Grade)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/shubhansu31/birthdayApp_Kotline_basics?style=flat-square)
